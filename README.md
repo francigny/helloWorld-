@@ -9,7 +9,7 @@ Quête Git/GitHub 1
     <title>Presentation</title>
   </head>
   <body>
-    <h1>Hello everyone from La Loupe</h1>
+    <h1>Hello everyone from the countryside</h1>
     <h2>I am a young wilder</h2>
   </body>
 </html>
