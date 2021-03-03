@@ -10,6 +10,6 @@ Quête Git/GitHub 1
   </head>
   <body>
     <h1>Hello everyone from the countryside</h1>
-    <h2>I am a young wilder</h2>
+    <h2>I am a motivated young wilder women</h2>
   </body>
 </html>
